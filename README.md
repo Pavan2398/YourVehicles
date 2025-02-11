@@ -10,6 +10,9 @@ YourWheels is a comprehensive platform designed for vehicle enthusiasts, offerin
 
 ### Frontend:
 1. Navigate to the frontend directory.
+    ```
+    cd Frontend
+    ```
 2. Install dependencies:
     ```
     npm i
@@ -22,11 +25,14 @@ YourWheels is a comprehensive platform designed for vehicle enthusiasts, offerin
 
 ### Backend:
 1. Navigate to the backend directory.
-2. Install dependencies:
+   ```
+    cd Backend
+    ```
+3. Install dependencies:
     ```
     npm i
     ```
-3. Start the server:
+4. Start the server:
     ```
     node server.js
     ```
